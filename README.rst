@@ -27,8 +27,9 @@ Paste or clone this library into the /libs folder, in the root directory of your
 Edit settings.gradle by adding the library. You have also define a project directory for the library.
 
 Your settings.gradle should look like below:
-include ':app', ':ImageListPreference'
-project(':ImageListPreference').projectDir = new File('app/libs/ImageListPreference')
+::
+	include ':app', ':ImageListPreference'
+	project(':ImageListPreference').projectDir = new File('app/libs/ImageListPreference')
 
 In your applicationModule(app)/build.gradle add the ImageListPreference library as a dependency:
 ::
@@ -156,4 +157,4 @@ Credits
 =======
 
 * CMWmobile.com[http://www.cmwmobile.com/] for guide on how to start with ImageListPreference
-* attenzione [Github user] for his ColorPickerPreference README.rst. Used it as base for this README.md
+* attenzione [Github user] for his ColorPickerPreference README.rst. Used it as base for this README.rst
