@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android-ImageListPreference-Sample</string>
+    <string name="test_image_list_preference">Test Image List Preference</string>
+    <string name="test_image_list_preference_2">Test Image List Preference 2</string>
+</resources>

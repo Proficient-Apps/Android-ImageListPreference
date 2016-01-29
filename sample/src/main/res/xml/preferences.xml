@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <in.proficientapps.preference.imagelist.ImageListPreference
+        android:key="pref_key_image_list_preference_1"
+        android:title="@string/test_image_list_preference"
+        android:dialogTitle="@string/test_image_list_preference"
+        android:entries="@array/entries"
+        android:entryValues="@array/entryValues"
+        app:entryImages="@array/entryImages"
+        app:roundedImage="false" />
+
+    <in.proficientapps.preference.imagelist.ImageListPreference
+        android:key="pref_key_image_list_preference_2"
+        android:title="@string/test_image_list_preference_2"
+        android:dialogTitle="@string/test_image_list_preference_2"
+        android:entries="@array/entries"
+        android:entryValues="@array/entryValues"
+        app:entryImages="@array/entryImages"
+        app:roundedImage="true" />
+
+</PreferenceScreen>

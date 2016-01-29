@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android-ImageListPreference</string>
+    <string name="list_item_image">List Item Image</string>
+</resources>
