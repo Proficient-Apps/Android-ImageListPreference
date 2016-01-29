@@ -142,15 +142,15 @@ Than create ImageListPreference object and add title, key and other requrired de
 Screens
 =======
 
-* .. image:: https://github.com/Proficient-Apps/Android-ImageListPreference/raw/master/screen_1.png
+* .. image:: https://raw.githubusercontent.com/Proficient-Apps/Android-ImageListPreference/master/screen_1.png
 
-* .. image:: https://github.com/Proficient-Apps/Android-ImageListPreference/raw/master/screen_2.png
+* .. image:: https://raw.githubusercontent.com/Proficient-Apps/Android-ImageListPreference/master/screen_2.png
 
-* .. image:: https://github.com/Proficient-Apps/Android-ImageListPreference/raw/master/screen_3.png
+* .. image:: https://raw.githubusercontent.com/Proficient-Apps/Android-ImageListPreference/master/screen_3.png
 
-* .. image:: https://github.com/Proficient-Apps/Android-ImageListPreference/raw/master/screen_4.png
+* .. image:: https://raw.githubusercontent.com/Proficient-Apps/Android-ImageListPreference/master/screen_4.png
 
-* .. image:: https://github.com/Proficient-Apps/Android-ImageListPreference/raw/master/screen_5.png
+* .. image:: https://raw.githubusercontent.com/Proficient-Apps/Android-ImageListPreference/master/screen_5.png
 
 Credits
 =======
